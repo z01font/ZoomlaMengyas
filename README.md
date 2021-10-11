@@ -84,7 +84,9 @@ http://scripts.sil.org/OFL
 
 ## 使用文件 
 
-获取github仓库，选择ttf字形，安装在你的操作系统上即可。
+04_成品：ZoomlaMengyas逐浪萌芽字.ttf
+
+获取github仓库，选择"04_成品：ZoomlaMengyas逐浪萌芽字.ttf"字形，安装在你的操作系统上即可。
 （你也可以点击github项目上的releases，下载发布包，它们是一致的）。
 
 ## 二次开发
